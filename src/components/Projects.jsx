@@ -3,7 +3,7 @@ import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 const Projects = () => {
   const projects = [
     {
-      title: " E-CommercePlatform(Next.js + React.js)",
+      title: " Transworld Translation(Next.js)",
       type: "Full Stack (Next.js)",
       description:
         "Developed a responsive client website using Next.js for Transworld Translation, a service providing verified document translation across multiple countries. Built modern UI components and service pages to ensure a smooth and user-friendly experience.",
